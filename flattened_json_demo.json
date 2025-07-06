@@ -1,0 +1,20 @@
+[
+    {
+        "order_id": "A001",
+        "product.name": "Widget",
+        "product.price": 19.99,
+        "id": 1,
+        "user.name": "Alice",
+        "user.email": "alice@example.com",
+        "user.address.city": "Metropolis"
+    },
+    {
+        "order_id": "A002",
+        "product.name": "Gadget",
+        "product.price": 24.99,
+        "id": 1,
+        "user.name": "Alice",
+        "user.email": "alice@example.com",
+        "user.address.city": "Metropolis"
+    }
+]

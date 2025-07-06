@@ -1,0 +1,28 @@
+{
+  "id": 1,
+  "user": {
+    "name": "Alice",
+    "email": "alice@example.com",
+    "address": {
+      "street": "123 Main St",
+      "city": "Metropolis",
+      "zip": "12345"
+    }
+  },
+  "orders": [
+    {
+      "order_id": "A001",
+      "product": {
+        "name": "Widget",
+        "price": 19.99
+      }
+    },
+    {
+      "order_id": "A002",
+      "product": {
+        "name": "Gadget",
+        "price": 24.99
+      }
+    }
+  ]
+}
